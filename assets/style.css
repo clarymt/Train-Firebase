@@ -1,0 +1,28 @@
+body {
+    background: url("../assets/images/background3.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Major Mono Display', monospace;
+    font-size: relative;
+    margin: auto;
+}
+
+.card-header {
+    font-size: 20px;
+    color: rgb(153, 7, 7);
+    font-weight: bolder;
+}
+
+.row {
+    font-family: 'Gayathri', sans-serif;
+}
+
+th {
+    color: rgb(172, 172, 44);
+}
+
+td {
+    color: rgb(30, 30, 180);
+}
